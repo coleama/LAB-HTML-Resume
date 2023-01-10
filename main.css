@@ -1,0 +1,23 @@
+body{
+    background-color: cornflowerblue;
+    
+}
+#firstjob{
+  font-family: 'Times New Roman', Times, serif;  
+  border-style: groove;
+  border-color: indigo;
+  border-width: 70px;
+
+}
+#secondjob{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   border-style: dashed;
+   border-color: firebrick;
+   border-width: 50px;
+}
+h1 {
+    color: aqua;
+}
+h2{
+    color: darkkhaki;
+}
